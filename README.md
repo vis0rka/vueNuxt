@@ -1,0 +1,1 @@
+Nuxt JS Crash Course
